@@ -15,9 +15,9 @@ This is a simple desktop weather application built using Python and Tkinter. It 
  
  
 ## Requirements
- -Python 3
- -Tkinter
- -requests
+ - Python 3
+ - Tkinter
+ - requests
 
 ## How to Run
 
