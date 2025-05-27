@@ -15,9 +15,9 @@ This is a simple desktop weather application built using Python and Tkinter. It 
  
  
 ## Requirements
- Python 3
- Tkinter
- requests
+ -Python 3
+ -Tkinter
+ -requests
 
 ## How to Run
 
@@ -25,10 +25,10 @@ This is a simple desktop weather application built using Python and Tkinter. It 
 
 2. Install the required package:
 
-Pip install tk
-pip install requests
+      -  Pip install tk
+      - pip install requests
 
-3. Get a free API key from OpenWeatherMap and put it in the code where it says "YOUR_API_KEY".
+3. Get a free API key from OpenWeatherMap and put it in the code where it says "Replace with your API key".
 
 
 4. Run the app
